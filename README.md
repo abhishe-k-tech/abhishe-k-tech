@@ -1,61 +1,183 @@
-# 👋 Hi, I'm Abhishek Kumar
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-### Full-Stack Developer · React Frontend Team Lead · AI-Augmented Engineer
+<h3 align="center">
+Full-Stack Developer | React Frontend Team Lead | AI-Augmented Engineer
+</h3>
 
-I build scalable, production-ready web applications and lead frontend engineering teams with a strong focus on **React, Next.js, TypeScript, system architecture, developer productivity, and AI-powered engineering workflows**.
+<p align="center">
+  <a href="https://abhishe-k-tech.in">
+    <img src="https://img.shields.io/badge/Portfolio-abhishe--k--tech.in-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/abhishe-k-tech">
+    <img src="https://img.shields.io/badge/GitHub-abhishe--k--tech-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/abhishek-kumar-16620ab0">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-I work across the complete development lifecycle — from architecture and implementation to API integration, testing, CI/CD, deployment, and production support.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhishe-k-tech&label=Profile%20views&color=0e75b6&style=flat" alt="abhishe-k-tech" />
+</p>
 
-🌐 **Portfolio:** [abhishe-k-tech.in](https://abhishe-k-tech.in)  
-💼 **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-16620ab0)  
-🐙 **GitHub:** [abhishe-k-tech](https://github.com/abhishe-k-tech)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishe-k-tech" alt="abhishe-k-tech" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 Full-Stack Developer with strong expertise in frontend engineering
-- ⚛️ React Frontend Team Lead focused on scalable frontend architecture
-- 🏗️ Experience building production-grade web applications and platforms
-- 🔥 Strong expertise in React.js, Next.js and TypeScript
-- 🧩 Experience working across Frontend, Backend, APIs, Databases and DevOps
-- 🤖 Building AI-assisted engineering workflows for faster and reliable development
-- 🧠 Exploring AI Agents, Hooks and automated coding workflows
-- 🔍 Automating code review, testing, validation and coding standards
-- 👥 Experienced in technical leadership, mentoring and code reviews
-- ⚡ Focused on maintainable, scalable, testable and production-ready software
+I'm a **Full-Stack Developer and React Frontend Team Lead** focused on building scalable, maintainable and production-ready applications.
+
+My core expertise is frontend engineering with **React, Next.js and TypeScript**, while I also work across backend development, APIs, databases, cloud infrastructure and deployment.
+
+I am particularly interested in combining **software engineering + AI automation** to improve the way applications are designed, developed, tested, reviewed and deployed.
+
+- ⚛️ React Frontend Team Lead
+- 🚀 Full-Stack Developer
+- 🏗️ Frontend & application architecture
+- 🔥 React.js / Next.js / TypeScript specialist
+- 🧩 REST & GraphQL API integration
+- 🔧 Node.js backend development
+- 🗄️ Database-driven applications
+- ☁️ Cloud & deployment experience
+- 🐳 Docker & Kubernetes
+- 🔄 CI/CD and automated deployments
+- 🤖 AI-assisted software development
+- 🧠 AI Agents and coding automation
+- 🔗 Agent Hooks & development hooks
+- 🧪 Automated testing and verification
+- 🔍 AI-powered code review
+- 📐 Coding standards enforcement
+- 👥 Team leadership, mentoring and code reviews
 
 ---
 
-## 🧠 Engineering Philosophy
+## 📫 How to reach me
 
-> **AI should not replace engineering discipline — it should accelerate and enforce it.**
+**Email:** abhishek@solulab.com
 
-I'm focused on combining software engineering practices with AI-powered development workflows.
+**Portfolio:**  
+https://abhishe-k-tech.in
 
-### AI-Augmented Development
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://twitter.com/abhishek_b_h_u" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek_b_h_u" height="30" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/abhishek-kumar-16620ab0" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-16620ab0" height="30" width="40" />
+</a>
+
+<a href="https://fb.com/abhibbu01" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhibbu01" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/abhish_e.k" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhish_e.k" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# 🧠 Engineering Focus
+
+I focus on building software that is:
+
+- **Scalable**
+- **Maintainable**
+- **Testable**
+- **Performant**
+- **Secure**
+- **Production-ready**
+- **Easy for teams to maintain**
+
+My approach is to establish strong engineering standards and automate repetitive development and verification processes wherever possible.
+
+---
+
+# 🤖 AI-Powered Engineering
+
+AI is becoming an important part of my development workflow.
+
+Instead of using AI only to generate code, I am exploring **AI agents and automated development workflows** that can help throughout the complete software lifecycle.
+
+### AI Engineering Areas
+
+- 🤖 AI Coding Agents
+- 🧠 AI-assisted architecture planning
+- 🔍 Codebase analysis
+- ⚙️ Automated code generation
+- 🔗 Agent Hooks
+- 🪝 Development workflow hooks
+- 🧪 Automated testing
+- ✅ Automated code verification
+- 🔍 AI code review
+- 📐 Coding standards validation
+- 🔄 Automated refactoring
+- 📚 Documentation generation
+- 🚦 Pull Request validation
+- 🔐 Security checks
+- ⚡ Developer productivity automation
+
+### Automated Development Workflow
 
 ```text
-Requirement
-     ↓
-AI Planning Agent
-     ↓
-Codebase / Context Analysis
-     ↓
-Implementation
-     ↓
-Lint + Type Checking
-     ↓
-Automated Tests
-     ↓
-AI Code Review
-     ↓
-Standards Verification
-     ↓
-Refactoring / Fixes
-     ↓
-Verified Pull Request
-     ↓
-CI/CD
-     ↓
-Deployment
+┌─────────────────────────┐
+│       Requirement       │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│     AI Planning Agent   │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│  Codebase Understanding │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│    Architecture Plan    │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│     AI-Assisted Coding  │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│   Lint + Type Checking  │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ Automated Tests & QA    │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│     AI Code Review      │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ Standards Verification  │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ Refactor / Fix Issues   │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│      Verified PR        │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│       CI / CD           │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│       Deployment        │
+└─────────────────────────┘
