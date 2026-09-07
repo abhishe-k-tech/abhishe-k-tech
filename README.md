@@ -20,12 +20,6 @@ Full-Stack Developer | React Frontend Team Lead | AI-Augmented Engineer
   <img src="https://komarev.com/ghpvc/?username=abhishe-k-tech&label=Profile%20views&color=0e75b6&style=flat" alt="abhishe-k-tech" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhishe-k-tech" alt="abhishe-k-tech" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -58,32 +52,10 @@ I am particularly interested in combining **software engineering + AI automation
 
 ## 📫 How to reach me
 
-**Email:** abhishek@solulab.com
+**Email:** abhishek.42093@gmail.com
 
 **Portfolio:**  
 https://abhishe-k-tech.in
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://twitter.com/abhishek_b_h_u" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek_b_h_u" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/abhishek-kumar-16620ab0" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-16620ab0" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/abhibbu01" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhibbu01" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/abhish_e.k" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhish_e.k" height="30" width="40" />
-</a>
-</p>
 
 ---
 
